@@ -1,0 +1,11 @@
+id = "smali"
+name = "Smali"
+version = "0.1"
+schema_version = 1
+authors = ["Belluxx"]
+description = "Provide Smali syntax highlighting"
+repository = "https://github.com/Belluxx/zed-smali-extension"
+
+[grammars.smali]
+repository = "https://github.com/tree-sitter-grammars/tree-sitter-smali"
+commit = "fdfa6a1febc43c7467aa7e937b87b607956f2346"
