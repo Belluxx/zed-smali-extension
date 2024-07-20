@@ -1,6 +1,6 @@
 id = "smali"
 name = "Smali"
-version = "0.1"
+version = "0.0.1"
 schema_version = 1
 authors = ["Belluxx"]
 description = "Provide Smali syntax highlighting"
